@@ -8,5 +8,11 @@
 
 import Foundation
 
-print("Hello, World!")
+//print("Hello, World!")
 
+var title:String = "A+B="
+var A:Int
+A = 7
+
+var B = 6
+print("\(title)",A + B)
